@@ -7,4 +7,4 @@
 
 let clock = ContinuousClock()
 
-print(clock.measure{ binarySearch() })
+print(clock.measure{ ya01() })
